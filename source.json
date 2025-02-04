@@ -1,16 +1,6 @@
 {
-  "name": "no-official",
+  "name": "no2-official",
   "apps": [
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-ble.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-board-configurator.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-cellularmonitor.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-dtm.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-npm.json",
-    "https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/blob/main/package.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-programmer.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-quickstart.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-rssi.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-serial-terminal.json",
-    "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-toolchain-manager.json"
-  ]
+        "https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/blob/main/package.json",
+         ]
 }
