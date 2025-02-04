@@ -1,5 +1,5 @@
 {
-  "name": "official",
+  "name": "no-official",
   "apps": [
     "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-ble.json",
     "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-board-configurator.json",
